@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\obj\Debug\net6.0\BottleProject.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\obj\Debug\net6.0\BottleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\obj\Debug\net6.0\BottleProject.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\obj\Debug\net6.0\BottleProject.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\obj\Debug\net6.0\BottleProject.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\bin\Debug\net6.0\BottleProject.exe
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\bin\Debug\net6.0\BottleProject.deps.json
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\bin\Debug\net6.0\BottleProject.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\bin\Debug\net6.0\BottleProject.dll
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\bin\Debug\net6.0\BottleProject.pdb
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\obj\Debug\net6.0\BottleProject.dll
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\obj\Debug\net6.0\refint\BottleProject.dll
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\obj\Debug\net6.0\BottleProject.pdb
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\obj\Debug\net6.0\BottleProject.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\BottleProject\obj\Debug\net6.0\ref\BottleProject.dll

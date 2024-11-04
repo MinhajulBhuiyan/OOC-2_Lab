@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 06\Lab06_Task01\Lab06_Task01\obj\Debug\Lab06_Task01.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 06\Lab06_Task01\Lab06_Task01\obj\Debug\Lab06_Task01.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 06\Lab06_Task01\Lab06_Task01\bin\Debug\Lab06_Task01.exe.config
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 06\Lab06_Task01\Lab06_Task01\bin\Debug\Lab06_Task01.exe
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 06\Lab06_Task01\Lab06_Task01\bin\Debug\Lab06_Task01.pdb
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 06\Lab06_Task01\Lab06_Task01\obj\Debug\Lab06_Task01.exe
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 06\Lab06_Task01\Lab06_Task01\obj\Debug\Lab06_Task01.pdb

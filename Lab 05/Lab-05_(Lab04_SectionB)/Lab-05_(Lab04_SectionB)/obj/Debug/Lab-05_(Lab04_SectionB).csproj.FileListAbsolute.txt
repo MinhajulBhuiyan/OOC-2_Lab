@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04_SectionB)\Lab-05_(Lab04_SectionB)\bin\Debug\Lab-05_(Lab04_SectionB).exe.config
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04_SectionB)\Lab-05_(Lab04_SectionB)\bin\Debug\Lab-05_(Lab04_SectionB).exe
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04_SectionB)\Lab-05_(Lab04_SectionB)\bin\Debug\Lab-05_(Lab04_SectionB).pdb
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04_SectionB)\Lab-05_(Lab04_SectionB)\obj\Debug\Lab-05_(Lab04_SectionB).csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04_SectionB)\Lab-05_(Lab04_SectionB)\obj\Debug\Lab-05_(Lab04_SectionB).csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04_SectionB)\Lab-05_(Lab04_SectionB)\obj\Debug\Lab-05_(Lab04_SectionB).exe
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04_SectionB)\Lab-05_(Lab04_SectionB)\obj\Debug\Lab-05_(Lab04_SectionB).pdb

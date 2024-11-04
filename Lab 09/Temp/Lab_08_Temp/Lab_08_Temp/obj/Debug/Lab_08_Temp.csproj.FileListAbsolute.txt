@@ -1,0 +1,7 @@
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_08_Temp\Lab_08_Temp\bin\Debug\Lab_08_Temp.exe.config
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_08_Temp\Lab_08_Temp\bin\Debug\Lab_08_Temp.exe
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_08_Temp\Lab_08_Temp\bin\Debug\Lab_08_Temp.pdb
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_08_Temp\Lab_08_Temp\obj\Debug\Lab_08_Temp.csproj.AssemblyReference.cache
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_08_Temp\Lab_08_Temp\obj\Debug\Lab_08_Temp.csproj.CoreCompileInputs.cache
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_08_Temp\Lab_08_Temp\obj\Debug\Lab_08_Temp.exe
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_08_Temp\Lab_08_Temp\obj\Debug\Lab_08_Temp.pdb

@@ -1,0 +1,7 @@
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_09_T02_CSHRP\Lab_09_T02_CSHRP\bin\Debug\Lab_09_T02_CSHRP.exe.config
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_09_T02_CSHRP\Lab_09_T02_CSHRP\bin\Debug\Lab_09_T02_CSHRP.exe
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_09_T02_CSHRP\Lab_09_T02_CSHRP\bin\Debug\Lab_09_T02_CSHRP.pdb
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_09_T02_CSHRP\Lab_09_T02_CSHRP\obj\Debug\Lab_09_T02_CSHRP.csproj.AssemblyReference.cache
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_09_T02_CSHRP\Lab_09_T02_CSHRP\obj\Debug\Lab_09_T02_CSHRP.csproj.CoreCompileInputs.cache
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_09_T02_CSHRP\Lab_09_T02_CSHRP\obj\Debug\Lab_09_T02_CSHRP.exe
+C:\Users\bhuiy\Desktop\3rd Semester\OOC-2 LAB\Lab_09_T02_CSHRP\Lab_09_T02_CSHRP\obj\Debug\Lab_09_T02_CSHRP.pdb

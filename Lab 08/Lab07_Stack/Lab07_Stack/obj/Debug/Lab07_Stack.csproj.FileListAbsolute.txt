@@ -1,0 +1,7 @@
+C:\Users\bhuiy\Desktop\Lab07_Stack\Lab07_Stack\bin\Debug\Lab07_Stack.exe.config
+C:\Users\bhuiy\Desktop\Lab07_Stack\Lab07_Stack\bin\Debug\Lab07_Stack.exe
+C:\Users\bhuiy\Desktop\Lab07_Stack\Lab07_Stack\bin\Debug\Lab07_Stack.pdb
+C:\Users\bhuiy\Desktop\Lab07_Stack\Lab07_Stack\obj\Debug\Lab07_Stack.csproj.AssemblyReference.cache
+C:\Users\bhuiy\Desktop\Lab07_Stack\Lab07_Stack\obj\Debug\Lab07_Stack.csproj.CoreCompileInputs.cache
+C:\Users\bhuiy\Desktop\Lab07_Stack\Lab07_Stack\obj\Debug\Lab07_Stack.exe
+C:\Users\bhuiy\Desktop\Lab07_Stack\Lab07_Stack\obj\Debug\Lab07_Stack.pdb

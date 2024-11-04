@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab-05_(Lab04Refactor)", "Lab-05_(Lab04Refactor)\Lab-05_(Lab04Refactor).csproj", "{CAFE878E-5953-432D-BBB7-04A65C547354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab-05_(Lab04Refactor)Tests", "Lab-05_(Lab04Refactor)Tests\Lab-05_(Lab04Refactor)Tests.csproj", "{CE183EB0-E40E-41EF-9E98-FFCB34F7972D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFE878E-5953-432D-BBB7-04A65C547354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFE878E-5953-432D-BBB7-04A65C547354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFE878E-5953-432D-BBB7-04A65C547354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFE878E-5953-432D-BBB7-04A65C547354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE183EB0-E40E-41EF-9E98-FFCB34F7972D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE183EB0-E40E-41EF-9E98-FFCB34F7972D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE183EB0-E40E-41EF-9E98-FFCB34F7972D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE183EB0-E40E-41EF-9E98-FFCB34F7972D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16132428-A25E-45E3-A272-9373CF3502FF}
+	EndGlobalSection
+EndGlobal

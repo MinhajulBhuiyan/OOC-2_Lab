@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\OCP_Lab04\bin\Debug\OCP_Lab04.exe.config
+C:\Users\User\OneDrive\Desktop\OCP_Lab04\bin\Debug\OCP_Lab04.exe
+C:\Users\User\OneDrive\Desktop\OCP_Lab04\bin\Debug\OCP_Lab04.pdb
+C:\Users\User\OneDrive\Desktop\OCP_Lab04\obj\Debug\OCP_Lab04.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\OCP_Lab04\obj\Debug\OCP_Lab04.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\OCP_Lab04\obj\Debug\OCP_Lab04.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\OCP_Lab04\obj\Debug\OCP_Lab04.exe
+C:\Users\User\OneDrive\Desktop\OCP_Lab04\obj\Debug\OCP_Lab04.pdb

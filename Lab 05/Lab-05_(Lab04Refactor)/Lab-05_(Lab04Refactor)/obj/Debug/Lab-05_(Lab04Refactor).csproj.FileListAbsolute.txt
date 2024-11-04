@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04Refactor)\Lab-05_(Lab04Refactor)\bin\Debug\Lab-05_(Lab04Refactor).exe.config
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04Refactor)\Lab-05_(Lab04Refactor)\bin\Debug\Lab-05_(Lab04Refactor).exe
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04Refactor)\Lab-05_(Lab04Refactor)\bin\Debug\Lab-05_(Lab04Refactor).pdb
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04Refactor)\Lab-05_(Lab04Refactor)\obj\Debug\Lab-05_(Lab04Refactor).csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04Refactor)\Lab-05_(Lab04Refactor)\obj\Debug\Lab-05_(Lab04Refactor).csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04Refactor)\Lab-05_(Lab04Refactor)\obj\Debug\Lab-05_(Lab04Refactor).exe
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\Lab 05\Lab-05_(Lab04Refactor)\Lab-05_(Lab04Refactor)\obj\Debug\Lab-05_(Lab04Refactor).pdb

@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\_99BottlesTest\obj\Debug\net6.0\_99BottlesTest.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\_99BottlesTest\obj\Debug\net6.0\_99BottlesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\_99BottlesTest\obj\Debug\net6.0\_99BottlesTest.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\_99BottlesTest\obj\Debug\net6.0\_99BottlesTest.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOP-2 LAB\99BottleProblemTask1\_99BottlesTest\obj\Debug\net6.0\_99BottlesTest.csproj.CoreCompileInputs.cache

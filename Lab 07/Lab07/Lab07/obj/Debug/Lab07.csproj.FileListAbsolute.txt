@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 07\Lab07\Lab07\obj\Debug\Lab07.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 07\Lab07\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 07\Lab07\Lab07\bin\Debug\Lab07.exe.config
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 07\Lab07\Lab07\bin\Debug\Lab07.exe
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 07\Lab07\Lab07\bin\Debug\Lab07.pdb
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 07\Lab07\Lab07\obj\Debug\Lab07.exe
+C:\Users\User\OneDrive\Desktop\3rd Semester\OOC-2 LAB\Lab 07\Lab07\Lab07\obj\Debug\Lab07.pdb

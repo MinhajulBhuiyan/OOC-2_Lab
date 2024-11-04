@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\bin\Debug\net6.0\99BottleOfOOP.exe
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\bin\Debug\net6.0\99BottleOfOOP.deps.json
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\bin\Debug\net6.0\99BottleOfOOP.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\bin\Debug\net6.0\99BottleOfOOP.dll
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\bin\Debug\net6.0\99BottleOfOOP.pdb
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\obj\Debug\net6.0\99BottleOfOOP.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\obj\Debug\net6.0\99BottleOfOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\obj\Debug\net6.0\99BottleOfOOP.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\obj\Debug\net6.0\99BottleOfOOP.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\obj\Debug\net6.0\99BottleOfOOP.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\obj\Debug\net6.0\99BottleOfOOP.dll
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\obj\Debug\net6.0\refint\99BottleOfOOP.dll
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\obj\Debug\net6.0\99BottleOfOOP.pdb
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\obj\Debug\net6.0\99BottleOfOOP.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\3rd Semester\Code\99BottleOfOOP\99BottleOfOOP\obj\Debug\net6.0\ref\99BottleOfOOP.dll
